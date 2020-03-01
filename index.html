@@ -1,47 +1,173 @@
-<!DOCTYPE html>
-<html lang="nl">
+<!doctype html>
+<html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <title>Homepage</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="stijl.css">
-    <link rel="shortcut icon" href="favicon.ico" />
+    <title>Portfolio</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon.ico">
+
+
+    <meta name="msapplication-TileColor" content="#da532c">
+    <link href="https://fonts.googleapis.com/css?family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="404.html">
+    <link rel="stylesheet" href="403.html">
+    <link rel="stylesheet" href=".htacces">
 
 </head>
 
 <body>
-    <div id="container">
-        <header>
-            <h1>Welkom op mijn webruimte!</h1>
-            <nav>
-                <h2>Mijn projecten</h2>
-                <ul>
-                    <li>Webdesign essentials
-                        <ul>
-                            <li><a href="webdesign/skills2/r0807924skills2.html">Skillstaak 2</a></li>
-                            <li><a href="webdesign/skills3/r0807924skills3.html">Skillstaak 3</a></li>
-                        </ul>
-                    </li>
-                    <li>Webdesign met HTML5
-                        <ul>
-                            <li><a href="#">Uitdaging 1</a></li>
-                            <li><a href="#">Uitdaging 2</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </nav>
-        </header>
-        <article>
-            <h2>Wie ben ik?</h2>
-            <p>Ik ben Ward Smets, student bij de IT Factory van Thomas More Geel. Ik ben zeer geïnteresseerd in
-                technologieën en probeer mijn kennis hiervan up-to-date te houden. Verder spendeer ik enorm veel tijd aan mijn hobby wielrennen.</p>
-        </article>
-        <footer>
-            <a href="http://www.thomasmore.be/">Thomas More</a> &copy; IT Factory = <a href="https://www.facebook.com/ToegepasteInformatica.ThomasMoreBE/">Toegepaste informatica</a> + <a href="https://www.facebook.com/ElektronicaICT.ThomasMoreBE/">Elektronica-ICT</a>
+    <header id="home">
+        <nav>
+            <ul class="navigation">
+                <li><a class="active" href="#home">Home</a></li>
+                <li><a href="#about">My work</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li class="right"><a href="webdesign/skills2/r0806166skills2.html">Skillstaak 2
+                    </a></li>
+                <li class="right"><a href="webdesign/skills3/r0806166skills3.html">Skilstaak 3</a></li>
+            </ul>
+        </nav>
+    </header>
 
-        </footer>
-    </div>
+    <!--===Intoduction-->
+
+    <section id="about" class="intro_section bgi content">
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-md-7 text-center">
+                    <h1 class=" text-white">Hello, my name is Daniel Stanciu </h1>
+                    <p class="webserver">Welcome to my webserver!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="section bg-light">
+        <div class="container">
+            <div>
+                <div class="col-md-7 mx-auto text-center">
+                    <h2 class="work_heading online mywork">My work</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class=" col-lg-3">
+                    <div class="work_card text-center">
+
+                        <h3>Skills 2</h3>
+                        <p><a href="webdesign/skills2/r0806166skills2.html">My first website where I begin to use html and css. Klik HERE to see!</a></p>
+                    </div>
+                </div>
+                <div class=" col-lg-3">
+                    <div class="work_card text-center">
+                        <div>
+
+                        </div>
+                        <h3>Skills 3</h3>
+                        <p><a href="webdesign/skills3/r0806166skills3.html">My first website where I begin to use html and css. Klik HERE to see!</a></p>
+                    </div>
+                </div>
+                <div class=" col-lg-3">
+                    <div class="work_card text-center">
+                        <div>
+                            <p><i></i>
+                            </p>
+                        </div>
+                        <h3>Challenge 1</h3>
+                        <p>My first challenge with:</p>
+                        <p>"Coming soon!"</p>
+                    </div>
+                </div>
+                <div class=" col-lg-3">
+                    <div class="work_card text-center">
+                        <div class="d-block">
+                            <p><i class="fab fa-bootstrap fa-5x"></i>
+                            </p>
+                        </div>
+                        <h3>Challenge 2</h3>
+                        <p>My second challenge with:</p>
+                        <p>"Coming soon!"</p>
+                    </div>
+                </div>
+                <div class=" col-lg-3">
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-4 wow flipInX" data-wow-duration="2s">
+                    <h2 class="online">About Me</h2>
+                    <p>I am Daniel Stanciu, I am a student IT Factory at <a href="https://www.thomasmore.be/">Thomas More Geel</a>. I am really interested in Cyber technology and to learn more about it! </p>
+                    <p><a href="#contact" class="btn btn-primary text-white px-5">Contact Me</a></p>
+                </div>
+                <div class="col-md-4">
+                    <img src="foto/daniel.jpg" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-md-4">
+                    <h2 class="online">Online</h2>
+                    <div>
+                        <div class="online">
+                            <p class="online"><a href="https://www.instagram.com/thomasmore.be/?hl=nl"><img src="foto/InstaPIC.jpg" alt="Instagram" height="25px">Instagram <img src="foto/InstaPIC.jpg" alt="Instagram" height="25px"></a></p>
+                            <p class="online"><img src="foto/twitter.jpg" alt="Twitter" height="25px">Twitter<img src="foto/twitter.jpg" alt="Twitter" height="25px"></p>
+                            <p class="online"><a href="https://nl-nl.facebook.com/ThomasMoreBE/"><img src="foto/facebook.jpg" alt="Facenook" height="25px">Facebook<img src="foto/facebook.jpg" alt="Facenook" height="25px"></a></p>
+                            <p class="online textthomas"><a href="https://www.thomasmore.be/">Thomas More</a></p>
+                            <div class=" thomasmore">
+                                <img src="foto/thomasMore.png" alt="Image" class="img-fluid">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--===FOOTER===-->
+
+    <footer id="contact" class="site-footer bgi">
+        <div class="container">
+            <div class=" text-center">
+                <h3 class="text-white">CONTACT ME</h3>
+            </div>
+            <form class="col" method="get">
+                <div class="row">
+                    <div class="">
+                        <div class="d-flex">
+                            <label for="name"></label>
+                            <input type="text" class="form-element mb-4" id="name" name="name" placeholder="NAME*" required>
+                        </div>
+                        <div class="d-flex ">
+                            <label for="email"></label>
+                            <input type="email" class="form-element mb-4" id="email" name="email" placeholder="E-MAIL*" required pattern="^\@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$">
+                        </div>
+                        <div class="d-flex">
+                            <label for="subject"></label>
+                            <input type="text" class="form-element mb-4" id="subject" name="subject" placeholder="ABOUT*" required>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="d-flex">
+                            <label for="message"></label>
+                            <textarea class="form-element messagetext" id="message" name="message" placeholder="YOUR MESSAGE*" required></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center ">
+                    <div>
+                        <input type="submit" class="btn btn-primary text-white" id="submit" name="submit" value="Send Message">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </footer>
+
 
 </body>
 

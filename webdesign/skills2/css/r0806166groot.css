@@ -1,0 +1,46 @@
+/*groot scherm*/
+
+body {
+    background-color: blue;
+    color: #000;
+    background-image: url(../images/patroon.png);
+}
+
+div {
+    max-width: 500px;
+    margin: auto;
+    background-color: #fff;
+    padding: 25px;
+}
+
+figure {
+    width: 640px;
+    margin: 20px auto;
+}
+
+nav ul {
+    display: flex;
+    padding: 0p;
+    list-style: none;
+}
+
+nav ul a {
+    color: yellow;
+    line-height: 50px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+nav li {
+    color: red;
+    background-color: #4f7c8c;
+    flex: 1 1 100%;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border: 1px 1 100%
+}
+
+nav li a {
+    flex: 1 1 100%;
+}

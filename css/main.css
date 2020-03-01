@@ -1,0 +1,189 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    line-height: 2;
+    font-weight: 310;
+    font-size: 1rem;
+    color: #364d59;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-weight: 320;
+    color: #000;
+}
+
+ul.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #191919;
+}
+
+ul.navigation li {
+    float: right;
+}
+
+ul.navigation li a {
+    display: inline-table;
+    color: white;
+    text-align: center;
+    padding: 20px 22px;
+    text-transform: uppercase;
+}
+
+ul.navigation li a:hover:not(.active) {
+    background-color: #111;
+    color: lightblue
+}
+
+ul.navigation li a.active {
+    background-color: darkturquoise;
+}
+
+ul.navigation li.right {
+    float: left;
+}
+
+
+/*INTRODUCTION*/
+
+.bgi {
+    background: url(../foto/intro.jpg) repeat center center fixed;
+
+}
+
+.intro_section {
+    position: static;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+.intro_section .container {
+    position: relative;
+    z-index: 2;
+}
+
+.intro_section .container > .row {
+    height: calc(100vh - 196px);
+    min-height: 677px;
+}
+
+
+.btn {
+    border-radius: 30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: dodgerblue;
+}
+
+.btn:active,
+.btn:focus {
+    outline: inherit;
+    box-shadow: none;
+}
+
+.section {
+    padding: 7rem 0;
+}
+
+
+/*MYWORK*/
+.online {
+    font-family: cursive;
+    text-align: center;
+    text-align: 30px;
+    margin-bottom: 15px;
+
+}
+
+.mywork {
+    margin-bottom: 75px;
+}
+
+.webserver {
+    font-family: cursive;
+    text-decoration-color: brown;
+    text-align: center;
+    font-size: 25px;
+}
+
+.work_card {
+    background-color: gray;
+    padding: 20px;
+    transition: .3s all ease;
+    border-radius: 200px;
+}
+
+
+.section {
+    padding: 2.5em 0;
+    background-color: lightgray
+}
+
+
+.section {
+    padding: 7rem 0;
+    color: darkblue;
+}
+
+.thomasmore {
+    text-align: center;
+    margin-left: 34px;
+}
+
+.textthomas {
+    font-size: 35px;
+    font-family: serif;
+}
+
+/*---FOOTER---*/
+
+
+
+.site-footer {
+    padding: 75px;
+}
+
+.site-footer h3 {
+    color: black;
+    padding: 2rem;
+    font-family: cursive;
+
+}
+
+#name,
+#email,
+#subject {
+    width: 100%;
+    height: 50px;
+    text-indent: 10px;
+    border-style: dashed;
+    border-radius: 20px;
+    margin-left: 1%;
+
+}
+
+textarea {
+    width: 100%;
+    height: 200px;
+    border-radius: 50px;
+    padding-top: 15px;
+    text-indent: 20px;
+    font-family: cursive;
+}
+
+.form-element {
+    font-family: cursive;
+    font-size: 14px;
+    font-weight: 700;
+}

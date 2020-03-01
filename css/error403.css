@@ -1,0 +1,118 @@
+div > p {
+    font-size: 1.5rem;
+    color: #000000;
+}
+
+div > h1 {
+    font-size: 25rem;
+    color: #ffffff;
+}
+
+@media (max-width: 992px) {
+    div > h1 {
+        font-size: 16rem;
+    }
+}
+
+@media (max-width: 680px) {
+    div > h1 {
+        font-size: 11rem;
+    }
+}
+
+
+
+body {
+    color: #000000;
+    background-color: #0e0e0e;
+    background-image: url(../foto/error403.jpg);
+    background-repeat: no-repeat;
+    background-position: center 0;
+     !* background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    * ! !*height: 600px;
+    is vast* ! !*background-size: cover;
+    * ! !*background-repeat: no-repeat;
+    niet nodig bij gebruik van 75%* !
+}
+
+.tekst-403 {
+    margin: 10px;
+    padding: 15px;
+}
+
+h1 {
+
+    font-size: 50px;
+    color: #FED136;
+    top: 20%;
+    left: 50%;
+}
+
+p {
+    font-size: 30px;
+    top: 51%;
+    left: 50%;
+
+}
+
+ !*===========medium===========* ! @media (min-width: 700px) {
+
+    h1 {
+
+        font-size: 60px;
+        color: #FED136;
+        top: 20%;
+        left: 50%;
+    }
+
+    p {
+        font-size: 40px;
+        top: 50%;
+        left: 50%;
+
+    }
+
+}
+
+ !*===========groot===========* ! @media (min-width: 900px) {
+
+    h1 {
+
+        font-size: 70px;
+        color: #FED136;
+        top: 20%;
+        left: 50%;
+    }
+
+    p {
+        font-size: 50px;
+        top: 50%;
+        left: 50%;
+
+    }
+
+}
+
+ !*===========extra groot===========* ! @media (min-width: 1100px) {
+
+    h1 {
+
+        font-size: 130px;
+        color: #FED136;
+        top: 20%;
+        left: 50%;
+    }
+
+    p {
+        font-size: 70px;
+        top: 50%;
+        left: 50%;
+
+    }
+
+
+}
+
+*/

@@ -1,0 +1,31 @@
+[Sun Mar 01 18:52:57.511637 2020] [authz_core:error] [pid 849] [client 91.176.51.73:51847] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:53:01.025568 2020] [authz_core:error] [pid 849] [client 91.176.51.73:51847] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:53:01.660411 2020] [authz_core:error] [pid 849] [client 91.176.51.73:51847] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:53:01.851789 2020] [authz_core:error] [pid 849] [client 91.176.51.73:51847] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:53:02.074548 2020] [authz_core:error] [pid 849] [client 91.176.51.73:51847] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:53:02.200675 2020] [authz_core:error] [pid 849] [client 91.176.51.73:51847] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:53:17.693621 2020] [authz_core:error] [pid 878] [client 91.176.51.73:51898] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:30.422288 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:30.581730 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:31.063266 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:31.193251 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:31.215494 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:31.292658 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:31.359274 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:31.457526 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:31.503238 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:31.586347 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:31.641827 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:31.757411 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:31.776557 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:31.889647 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:31.911966 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:32.017159 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:32.035240 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:32.142334 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:32.158730 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:32.253150 2020] [authz_core:error] [pid 952] [client 91.176.51.73:51959] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:54:38.482231 2020] [authz_core:error] [pid 980] [client 91.176.51.73:51998] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:54:40.237666 2020] [authz_core:error] [pid 980] [client 91.176.51.73:51998] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
+[Sun Mar 01 18:55:01.942807 2020] [authz_core:error] [pid 1133] [client 91.176.51.73:52030] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html
+[Sun Mar 01 18:55:02.043417 2020] [authz_core:error] [pid 1133] [client 91.176.51.73:52030] AH01630: client denied by server configuration: /home/users/dhmg/data/dhmg/public_html, referer: https://dhmg.sinners.be/
