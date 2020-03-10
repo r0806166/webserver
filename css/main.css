@@ -103,7 +103,13 @@ ul.navigation li.right {
     text-align: center;
     text-align: 30px;
     margin-bottom: 15px;
+    height: 25px;
 
+}
+
+.foto {
+    height: 25px;
+    width: 25px;
 }
 
 .mywork {
@@ -139,6 +145,7 @@ ul.navigation li.right {
 .thomasmore {
     text-align: center;
     margin-left: 34px;
+    margin-top: 35px;
 }
 
 .textthomas {
